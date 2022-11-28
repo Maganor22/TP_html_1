@@ -1,0 +1,9 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+.img_cookie {
+    height: auto;
+    max-width: 30%;
+}
